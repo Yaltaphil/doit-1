@@ -1,5 +1,7 @@
 # doit
 
+*Super project*
+
 ## Build Setup
 
 ```bash
